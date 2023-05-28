@@ -1,12 +1,12 @@
 # 💫 Mi perfil:
-Hola! Soy Maxi Cordone, estudiante de Quality Assurance ingresando al mundo Automation.</br></br>
+Hola! Soy Maxi Cordone, estudiante de Quality Assurance Automation.</br></br>
 
-Tengo amplia experiencia en el área de soporte técnico a aplicaciones, análisis de datos, relevamientos e infraestructura. Me gusta trabajar en equipo y resolver problemas de manera eficiente.👨‍💻</br></br>
+Soy una persona comprometida, me gusta aprender y siempre estoy buscando formas de mejorar habilidades para lograr buenos resultados y un rendimiento óptimo en cada proyecto. 📈</br></br>
 
-Soy una persona comprometida con mi trabajo y siempre estoy buscando formas de mejorar continuamente para lograr buenos resultados y un rendimiento óptimo en cada proyecto.📈</br></br>
+Tengo experiencia en el área de soporte técnico a aplicaciones, análisis de datos, relevamientos e infraestructura. Me gusta trabajar en equipo y resolver problemas de manera eficiente. 👨‍💻</br></br>
 
-Actualmente estoy enfocado en ampliar mis habilidades y conocimientos en Backend y QA Automation, mediante estudios autodidactas y cursos en academias. 
-Mi objetivo es poder aplicar estas habilidades en proyectos futuros y contribuir al desarrollo y éxito de una empresa en esta rama de la tecnología! 🔍💻
+Actualmente estoy enfocado en ampliar mis habilidades y conocimientos en QA Automation.
+Mi objetivo es poder aplicar estas habilidades en proyectos y contribuir al desarrollo de una compañía en esta rama de la tecnología! 🔍💻
 
 
 ## 🌐 Redes:
