@@ -1,11 +1,11 @@
 # 💫 Mi perfil:
-Hola! Soy Maxi Cordone, estudiante de Quality Assurance Automation.</br></br>
+Hola! Soy Maxi Cordone, estudiante de Quality Assurance y desarrollo en Java.</br></br>
 
 Soy una persona comprometida, me gusta aprender y siempre estoy buscando formas de mejorar habilidades para lograr buenos resultados y un rendimiento óptimo en cada proyecto. 📈</br></br>
 
 Tengo experiencia en el área de soporte técnico a aplicaciones, análisis de datos, relevamientos e infraestructura. Me gusta trabajar en equipo y resolver problemas de manera eficiente. 👨‍💻</br></br>
 
-Actualmente estoy enfocado en ampliar mis habilidades y conocimientos en QA Automation.
+Actualmente estoy enfocado en ampliar mis habilidades y conocimientos en QA y programación en Java.
 Mi objetivo es poder aplicar estas habilidades en proyectos y contribuir al desarrollo de una compañía en esta rama de la tecnología! 🔍💻
 
 
